@@ -1,0 +1,1 @@
+Checked 2 daily moves over 20%: SBIN +27.7% on 2017-10-25 (PSU bank recapitalisation) and AXISBANK -27.9% on 2020-03-23 (COVID crash; gapped down at the open then fell further; open-to-close was -19.55%, close-to-close -27.9%). Both real events, kept in data.
